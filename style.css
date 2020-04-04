@@ -1,4 +1,4 @@
-/*
+/*/*
  * Globals
  */
 
@@ -17,6 +17,7 @@ a:hover {
   text-shadow: none; /* Prevent inheritance from `body` */
   background-color: #fff;
   border: .05rem solid #fff;
+  display: inline-block;
 }
 
 
@@ -107,3 +108,5 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+*/
